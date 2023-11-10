@@ -9,8 +9,4 @@ Alumnos:
 * VIDELA, Ana Clara / anitavidela200112@gmail.com
   
 
-Incluye documentos sobre:
-1. Inf
-2.  
-3. 
-4.
+Incluye documento sobre lo realizado en clase utilizando Arduino, simuladores en línea y el prograa ARDUINO IDE para realizar la codificación para los respectivos desafíos planteados por el profesor.
